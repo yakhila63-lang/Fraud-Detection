@@ -40,5 +40,4 @@ Python, Scikit-learn, Pandas, Matplotlib, Seaborn, SMOTE, StandardScaler
 ### 👤 Author
 [yakhila63-lang](https://github.com/yakhila63-lang)
 
----
-⭐ If you like this project, give a star!
+
